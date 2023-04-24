@@ -1,2 +1,4 @@
 # git-essentials-by-nyangweso-rodgers
-Working repository on how to work with git.
+
+# Description
+This repo is for working and testing various `git` commands. 
